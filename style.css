@@ -12,9 +12,9 @@ nav {
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     margin: 0;
-    padding: 0;
+    padding: 0 2rem;
 }
 nav ul li {
     margin: 0 1.5rem;
@@ -39,6 +39,7 @@ main {
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(191,87,0,0.08);
     padding: 2rem;
+    text-align: left;
 }
 .tab {
     display: none;
