@@ -9,12 +9,22 @@ nav {
     background: #BF5700;
     padding: 0.25rem 0;
 }
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+}
+.nav-name {
+    color: #F0EEE9;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: flex-end;
     margin: 0;
-    padding: 0 1rem;
+    padding: 0;
 }
 nav ul li {
     margin: 0 0.5rem;
