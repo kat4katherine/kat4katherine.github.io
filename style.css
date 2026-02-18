@@ -71,7 +71,8 @@ main {
 .home-content {
     display: flex;
     gap: 1rem;
-    align-items: flex-start;
+    align-items: center;
+    justify-content: space-between;
 }
 h1, h2 {
     color: #BF5700;
