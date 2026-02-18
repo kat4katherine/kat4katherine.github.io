@@ -73,6 +73,21 @@ main {
     gap: 1rem;
     align-items: center;
     justify-content: space-between;
+    min-height: 200px;
+}
+.home-content > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+}
+.home-content h1 {
+    margin: 0;
+    padding: 0;
+}
+.home-content p {
+    margin: 0.5rem 0 0 0;
+    padding: 0;
 }
 h1, h2 {
     color: #BF5700;
