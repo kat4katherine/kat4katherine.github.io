@@ -1,2 +1,2 @@
 # kat4katherine.github.io
-Website portfolio
+This is Katherine Smith's Portfolio Website!
