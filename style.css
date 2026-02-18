@@ -92,6 +92,21 @@ main {
 h1, h2 {
     color: #BF5700;
 }
+h2 {
+    margin: 0 0 1rem 0;
+    padding: 0;
+}
+.tab ul {
+    margin: 0;
+    padding: 0 0 0 1.5rem;
+}
+.tab ul li {
+    margin: 0.5rem 0;
+}
+.tab > a {
+    margin: 0;
+    padding: 0;
+}
 a {
     color: #BF5700;
 }
